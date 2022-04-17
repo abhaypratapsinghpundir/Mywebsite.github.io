@@ -8,7 +8,7 @@ body{
 }
 .top{
 
-   background-color: #06113C;
+   background-color: #85F4FF ;
 
  }
 
@@ -17,7 +17,7 @@ body{
  h1{
    font-size: 5.625rem;
   padding-top: 280px;
-   color: #FF8C32;
+   color: #630606 ;
    margin: 20px auto 0 auto;
 
    margin:0 auto 0 auto ;
@@ -38,7 +38,7 @@ body{
 
 p{
 
-  color: #FF8C32;
+  color: #630606 ;
   font-family: 'Sacramento', cursive;
    font-size: 2.5rem;
   margin: 40px auto 0 auto;
